@@ -10,8 +10,7 @@
 
 **Harflerden anlamlı kelimeler oluştur ve puanları topla!**
 
-<img src="https://github.com/user-attachments/assets/03b2074f-a608-4269-8640-dba33b013186" alt="Ana Menü" width="250px"/>alt="Kelime Avı Ekran Görüntüsü" width="600px"/>
-
+<img src="https://github.com/user-attachments/assets/03b2074f-a608-4269-8640-dba33b013186" alt="Ana Menü" width="250px"/>
 </div>
 
 ## 📖 Hakkında
