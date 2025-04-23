@@ -10,7 +10,7 @@
 
 **Harflerden anlamlı kelimeler oluştur ve puanları topla!**
 
-<img src="![Image](https://github.com/user-attachments/assets/05624b64-9ac1-4b3f-afe6-fa707c099661)" alt="Kelime Avı Ekran Görüntüsü" width="600px"/>
+<img src="https://github.com/user-attachments/assets/03b2074f-a608-4269-8640-dba33b013186" alt="Ana Menü" width="250px"/>alt="Kelime Avı Ekran Görüntüsü" width="600px"/>
 
 </div>
 
@@ -117,9 +117,19 @@ Katkılarınızı memnuniyetle karşılıyoruz! Projeye katkıda bulunmak için:
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/250x500.png?text=Ana+Menü" alt="Ana Menü"/></td>
-    <td><img src="https://via.placeholder.com/250x500.png?text=Oyun+Ekranı" alt="Oyun Ekranı"/></td>
-    <td><img src="https://via.placeholder.com/250x500.png?text=Sonuç+Ekranı" alt="Sonuç Ekranı"/></td>
+    <td><img src="https://github.com/user-attachments/assets/03b2074f-a608-4269-8640-dba33b013186" alt="Ekran Görüntüsü 6" width="250px"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a29516a0-4e9e-454b-98b5-62064b38aded" alt="Ekran Görüntüsü 5" width="250px"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c4add4e0-3af8-4bf3-9a33-9365401fcf73" alt="Ekran Görüntüsü 4" width="250px"/></td> 
+  <tr>      
+</table>
+</div>
+
+<div align="center">
+<table>
+  </tr>
+    <td><img src="https://github.com/user-attachments/assets/05624b64-9ac1-4b3f-afe6-fa707c099661" alt="Ana Menü" width="250px"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8f9b4ce3-52c1-43fd-b83f-1821fb223f9d" alt="Oyun Ekranı" width="250px"/></td>
+    <td><img src="https://github.com/user-attachments/assets/42cdd18f-b218-431a-8132-5659953f1cd4" alt="Sonuç Ekranı" width="250px"/></td>
   </tr>
 </table>
 </div>
