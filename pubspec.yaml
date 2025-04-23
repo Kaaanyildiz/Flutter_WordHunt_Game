@@ -1,0 +1,42 @@
+name: word_hunt
+description: Kelime Avı - Türkçe kelime bulmaca oyunu
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  path_provider: ^2.0.15
+  crypto: ^3.0.3      # Şifreleme için hash fonksiyonları
+  encrypt: ^5.0.3     # AES şifreleme işlemleri için
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/words_lib.json
+    
+  # Mevcut font dosyalarınız yoksa, aşağıdaki satırları kaldırıyoruz
+  # fonts:
+  #   - family: Poppins
+  #     fonts:
+  #       - asset: assets/fonts/Poppins-Regular.ttf
+  #       - asset: assets/fonts/Poppins-Bold.ttf
+  #         weight: 700
+  #       - asset: assets/fonts/Poppins-Light.ttf
+  #         weight: 300
+  #       - asset: assets/fonts/Poppins-Medium.ttf
+  #         weight: 500
