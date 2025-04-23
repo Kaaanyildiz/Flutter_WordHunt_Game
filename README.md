@@ -130,7 +130,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE]
 
 ## 👨‍💻 Geliştirici
 
-- **Adınız Soyadınız** - [GitHub](https://github.com/Kaaanyildiz) - [LinkedIn](www.linkedin.com/in/kaanyıldız1)
+- **Mehmet Kaan YILDIZ** - [GitHub](https://github.com/Kaaanyildiz) - [LinkedIn](www.linkedin.com/in/kaanyıldız1)
 
 ## 🙏 Teşekkürler
 
