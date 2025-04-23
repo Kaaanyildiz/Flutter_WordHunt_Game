@@ -10,7 +10,7 @@
 
 **Harflerden anlamlı kelimeler oluştur ve puanları topla!**
 
-<img src="https://via.placeholder.com/800x400.png?text=Kelime+Avı+Oyunu" alt="Kelime Avı Ekran Görüntüsü" width="600px"/>
+<img src="![Image](https://github.com/user-attachments/assets/05624b64-9ac1-4b3f-afe6-fa707c099661)" alt="Kelime Avı Ekran Görüntüsü" width="600px"/>
 
 </div>
 
