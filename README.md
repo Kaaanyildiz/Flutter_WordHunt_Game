@@ -28,7 +28,7 @@ Kelime Avı, 4x4 harf tablosunda Türkçe kelimeler bulma üzerine kurulu eğlen
 ## 🎮 Nasıl Oynanır
 
 1. Zorluk seviyesi seçin (Kolay: 90 saniye, Orta: 60 saniye, Zor: 45 saniye)
-2. 4x4 harf tablosundaki harfleri kullanarak anlamlı kelimeler oluşturun
+2. 5x5 harf tablosundaki harfleri kullanarak anlamlı kelimeler oluşturun
 3. En az 3 harfli kelimeler oluşturmalısınız
 4. Kelimeleri oluşturmak için bitişik harflere sırayla dokunun
 5. Ne kadar uzun kelime, o kadar çok puan!
