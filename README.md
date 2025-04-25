@@ -15,7 +15,7 @@
 
 ## 📖 Hakkında
 
-Kelime Avı, 4x4 harf tablosunda Türkçe kelimeler bulma üzerine kurulu eğlenceli bir kelime bulmaca oyunudur. Oyun hem kelime haznenizi geliştirmenize yardımcı olur hem de eğlenceli vakit geçirmenizi sağlar.
+Kelime Avı, 5x5 harf tablosunda Türkçe kelimeler bulma üzerine kurulu eğlenceli bir kelime bulmaca oyunudur. Oyun hem kelime haznenizi geliştirmenize yardımcı olur hem de eğlenceli vakit geçirmenizi sağlar.
 
 ### ✨ Özellikler
 
